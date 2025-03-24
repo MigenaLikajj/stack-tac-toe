@@ -1,1 +1,1 @@
-# connect-4
+# stack-tac-toe
